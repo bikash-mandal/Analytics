@@ -1,1 +1,3 @@
-# Analytics
+Application which allows users to consult/analyse/model stock time-series.
+
+This model involves descriptive analytics (descriptive summary and data visualisation) and predictive analytics (implements linear regression and prediction). It allows users to search for specific stocks, and query specified time ranges, along with associated analysis, such as statistical descriptions of prices and volume (mean, median, range etc.), technical indicators, data visualisation (such as raw-time series, trend lines, moving averages, exponential moving averages, moving average convergence/divergence). This model will also predict the closing price for companies specified by the user, with regression models.
